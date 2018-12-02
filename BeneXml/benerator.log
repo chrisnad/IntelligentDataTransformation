@@ -1,0 +1,12 @@
+2018-11-20 09:16:57,547 INFO  (main) [org.databene.CONFIG] Running file persons.ben.xml
+2018-11-20 09:16:57,547 INFO  (main) [org.databene.CONFIG] Benerator 0.9.8 build 9
+2018-11-20 09:16:57,547 INFO  (main) [org.databene.CONFIG] Java version 1.8.0_181
+2018-11-20 09:16:57,547 INFO  (main) [org.databene.CONFIG] JVM Java HotSpot(TM) 64-Bit Server VM 25.181-b13 (Oracle Corporation)
+2018-11-20 09:16:57,547 INFO  (main) [org.databene.CONFIG] OS Windows 7 6.1 (amd64)
+2018-11-20 09:16:57,547 INFO  (main) [org.databene.CONFIG] Installed JSR 223 Script Engines:
+2018-11-20 09:16:57,547 INFO  (main) [org.databene.CONFIG] - Oracle Nashorn[nashorn, Nashorn, js, JS, JavaScript, javascript, ECMAScript, ecmascript]
+2018-11-20 09:16:57,547 INFO  (main) [org.databene.CONFIG] Configured heap size limit: 1806 MB
+2018-11-20 09:16:58,155 INFO  (main) [org.databene.task.TaskExecutor] Running task StateTrackingTaskProxy[GenerateAndConsumeTask(personne)] 
+2018-11-20 09:16:58,172 INFO  (main) [org.databene.benerator.engine.statement.TimedGeneratorStatement] Created 20 data sets from 'personne' setup in 282 ms (70/s)
+2018-11-20 09:16:58,172 INFO  (main) [org.databene.benerator.engine.DescriptorRunner] Created a total of 20 entities in 282 ms (~250,000 p.h.)
+2018-11-20 09:16:58,219 INFO  (main) [org.databene.CONFIG] Max. committed heap size: 123 MB

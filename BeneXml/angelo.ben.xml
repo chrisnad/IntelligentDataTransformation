@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<setup xmlns="http://databene.org/benerator/0.9.8"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://databene.org/benerator/0.9.8 benerator-0.9.8.xsd"
+	defaultEncoding="UTF-8" defaultDataset="FR" defaultLocale="fr_FR"
+	defaultLineSeparator="\r\n">
+
+<!--++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->	
+	<!-- Domaines person et address importés -->
+<!--++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
+
+	<import domains="person, address"/>
+	<import class="org.databene.benerator.util.RandomUtil"/>
+	
+	<bean id="dtGen" class="DateTimeGenerator">
+		<property name='minDate' value='1970-01-01'/>
+		<property name='maxDate' value='1990-12-31'/>
+		<property name='dateDistribution' value='random'/>
+		<property name='minTime' value='08:00:00' />
+		<property name='maxTime' value='17:00:00' />
+		<property name='timeGranularity' value='00:00:01'/>
+		<property name='timeDistribution' value='random'/>
+	</bean>
+	
+	<bean id="out" class="DbUnitEntityExporter">
+		<property name="uri" value="target/anonymized_persons.dbunit.xml" />
+	</bean>
+	
+	<bean id="CG_out" class="DbUnitEntityExporter">
+		<property name="uri" value="target/anonymized_persons_CG.dbunit.xml" />
+	</bean>
+	
+	<bean id="pfe_out" class="DbUnitEntityExporter">
+		<property name="uri" value="target/anonymized_persons_pfe.dbunit.xml" />
+	</bean>
+	
+	<bean id="genFemale" class="org.databene.domain.person.PersonGenerator">
+		 <property name="femaleQuota" value="1.0"/>
+	</bean>
+	
+	<bean id="genMale" class="org.databene.domain.person.PersonGenerator">
+		 <property name="femaleQuota" value="0.0"/>
+	</bean>
+	
+	<bean id="Luhn" class="fr.asipsante.benerator.Luhn"/>
+	
+<!--++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->	
+	<!--Fichiers xml à utiliser -->
+<!--++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->	
+
+<domtree id="CG" inputUri="imports/angelo_CG.xml" 
+outputUri="target/anonymized_persons_CG.xml" namespaceAware="false" />	
+
+<domtree id="pfe" inputUri="imports/angelo_pfe.xml" 
+outputUri="target/anonymized_persons_pfe.xml" namespaceAware="false" />	
+
+<!--++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->	
+	<!-- Transformations à effectuer sur le fichier XML -->
+<!--++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
+
+	<!-- Table person(Anonymisation name,city) -->
+<iterate name="version_de_titulaire" type="whatever" source="CG" selector="//version_de_titulaire" consumer="CG.updater()">
+	
+	<variable  name="femalePerson" generator="genFemale"/>
+	<variable  name="malePerson" generator="genMale"/>
+	
+	<attribute name="nom_d_exercice" condition="this.code_s_civilite != 31" script="femalePerson.familyName" converter="CaseConverter"/>
+	<attribute name="prenom_usuel" condition="this.code_s_civilite != 31" script="femalePerson.givenName" converter="CaseConverter"/>
+	
+	<attribute name="nom_d_exercice" condition="this.code_s_civilite == 31" script="malePerson.familyName" converter="CaseConverter"/>
+	<attribute name="prenom_usuel" condition="this.code_s_civilite == 31" script="malePerson.givenName" converter="CaseConverter"/>
+	
+	<variable name="langue" type="entity" source="code_langue.ent.csv" distribution="random"/>
+	
+	<attribute name="code_s_langue_1" script="langue.lang_code"/>
+	<attribute name="code_s_langue_2" script="langue.lang_code"/>
+	
+	<variable name="saved_variable_VdT_IPI" script="version_de_titulaire.identifiant_personnel_ident"/>
+	
+	<!--	<attribute name="identifiant_personnel_ident" condition="this.type_identifiant == 8" pattern="[0-9]{10}"/>
+	<attribute name="identifiant_personnel_ident" condition="this.type_identifiant == 8" script="{Luhn.concatCheckDigit(this.identifiant_personnel_ident)}"/> -->
+	<attribute name="identifiant_personnel_ident" condition="this.type_identifiant == 8" script="{Luhn.concatCheckDigit(Luhn.genRndNum(10))}"/>
+	<!-- 	<attribute name="identifiant_personnel_ident" condition="this.type_identifiant == 0" pattern="[0-9]{2}"/>
+	<attribute name="identifiant_personnel_ident" condition="this.type_identifiant == 0" script="{this.identifiant_personnel_ident + this.code_s_profmetier}"/>
+	<attribute name="identifiant_personnel_ident" condition="this.type_identifiant == 0" script="{this.identifiant_personnel_ident + Luhn.genRndNum(4)}"/>
+	<attribute name="identifiant_personnel_ident" condition="this.type_identifiant == 0" script="{Luhn.concatCheckDigit(this.identifiant_personnel_ident)}"/> -->
+	<attribute name="identifiant_personnel_ident" condition="this.type_identifiant == 0" script="{Luhn.concatCheckDigit(Luhn.genRndNum(2)+this.code_s_profmetier+Luhn.genRndNum(4))}"/>
+	<attribute name="identifiant_personnel_ident" condition="this.type_identifiant == 3" pattern="R[a-z0-9]{2,8}"/>
+	<attribute name="identifiant_personnel_ident" condition="this.type_identifiant == 5" pattern="R[a-z0-9]{2,8}"/>
+	<attribute name="identifiant_personnel_ident" condition="this.type_identifiant == 6" pattern="R[a-z0-9]{2,8}"/>
+	
+	<iterate name="personne" type="whatever" source="CG" selector="//personne" consumer="CG.updater()">
+	
+		<attribute name="nom_patronymique" condition="this.id_personne == version_de_titulaire.id_personne" script="version_de_titulaire.nom_d_exercice"/>
+		<attribute name="prenom_a" condition="this.id_personne == version_de_titulaire.id_personne" script="version_de_titulaire.prenom_usuel"/>
+		<attribute name="prenom_b" constant=''/>
+		<attribute name="prenom_c" constant=''/>
+		
+		<variable name="x" type="boolean" script="version_de_titulaire.type_identifiant == 8"/>
+		<variable name="y" type="boolean" script="personne.id_personne == version_de_titulaire.id_personne"/>
+		
+		<attribute name="id_rpps" condition="x &amp;&amp; y" script="version_de_titulaire.identifiant_personnel_ident"/>
+		
+		<attribute name="date_naissance" generator="dtGen"/>
+		<attribute name="date_naissance" script="{this.date_naissance+''}"/>
+		<attribute name="date_naissance" script="{Luhn.replaceChar(this.date_naissance, 'T', ' ')}"/>
+		<!-- <attribute name="date_naissance" generator="DayGenerator"/>
+		<attribute name="date_naissance" script="{this.date_naissance+'-'+RandomUtil.randomInt(0,23)+'.'+RandomUtil.randomInt(0,23)+'.'+RandomUtil.randomInt(0,23)}"/> -->
+	
+	</iterate>
+	
+	<iterate name="version_de_carte" type="whatever" source="CG" selector="//version_de_carte">
+	
+		<variable name="x" type="boolean" script="version_de_carte.numero_de_version_titulaire == version_de_titulaire.numero_de_version_titulaire"/>
+		<variable name="y" type="boolean" script="version_de_carte.num_interne_titulaire == version_de_titulaire.num_interne_titulaire"/>
+		
+		<variable name="xy" type="boolean" script="x &amp;&amp; y"/>
+	
+		<iterate name="carte_physique" type="whatever" source="CG" selector="//carte_physique" consumer="CG.updater()">
+		
+			<variable name="z" type="boolean" script="carte_physique.numero_logique_carte == version_de_carte.numero_de_carte"/>
+			
+			<attribute name="telephone_mailer" condition="xy &amp;&amp; z" pattern="[0][0-9]{1} [0-9]{2} [0-9]{2} [0-9]{2} [0-9]{2}"/>
+			<attribute name="telephone_porte_corres" condition="xy &amp;&amp; z" pattern="[0][0-9]{1} [0-9]{2} [0-9]{2} [0-9]{2} [0-9]{2}"/>
+			<attribute name="telephone_corres" condition="xy &amp;&amp; z" pattern="[0][0-9]{1} [0-9]{2} [0-9]{2} [0-9]{2} [0-9]{2}"/>
+			
+			<iterate name="certificat" type="whatever" source="CG" selector="//certificat" consumer="CG.updater()">
+				
+				<variable name="c" type="boolean" script="certificat.num_logique_produit == carte_physique.numero_logique_carte"/>
+				<variable name="cz" type="boolean" script="c &amp;&amp; z"/>
+				
+				<attribute name="dn_sujet" condition="cz &amp;&amp; xy" script="'CN='+version_de_titulaire.identifiant_personnel_ident+'+SN='+version_de_titulaire.nom_d_exercice+'+GN='+version_de_titulaire.prenom_usuel+',OU=1370000184,L=Indre-et-Loire (37),O=GIP-CPS,C=FR'"/>
+			
+			</iterate>
+			
+		</iterate>
+	
+	</iterate>
+	
+	<iterate name="regles_detectees" type="whatever" source="pfe" selector="//regles_detectees">
+		
+		<variable name="x" type="boolean" script="regles_detectees.id_rpps == saved_variable_VdT_IPI"/>
+		
+		<iterate name="resynchro_rpps" type="whatever" source="pfe" selector="//resynchro_rpps">
+		
+			<variable name="y" type="boolean" script="resynchro_rpps.id_resynchro == regles_detectees.id_resynchro"/>
+			<variable name="xy" type="boolean" script="x &amp;&amp; y"/>
+			
+			<iterate name="message_rpps" type="whatever" source="pfe" selector="//message_rpps" consumer="pfe.updater()">
+			
+				<variable name="z" type="boolean" script="message_rpps.id_message == resynchro_rpps.id_message"/>
+				<variable name="xyz" type="boolean" script="xy &amp;&amp; z"/>
+				
+				<attribute name="id_rpps" condition="xy &amp;&amp; z" script="version_de_titulaire.identifiant_personnel_ident"/>
+			
+			</iterate>
+		
+		</iterate>
+	
+	</iterate>
+
+</iterate> 
+
+<iterate name="toDbunit" type="whatever" source="CG" selector="/*/*" consumer="CG_out"/>
+<iterate name="toDbunit" type="whatever" source="pfe" selector="/*/*" consumer="pfe_out"/>
+
+</setup>

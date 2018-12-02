@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<setup xmlns="http://databene.org/benerator/0.9.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://databene.org/benerator/0.9.8 http://databene.org/benerator-0.9.8.xsd"
+	defaultEncoding="UTF-8">
+
+<!--++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->	
+	<!-- Domaines person et address importés -->
+<!--++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
+
+	<import domains="person, address"/>	
+	
+<!--++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->	
+	<!--Fichiers xml à utiliser -->
+<!--++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->	
+
+<domtree id="dom1" inputUri="imports/input.xml" 
+outputUri="target/anonymized_persons.xml" namespaceAware="false" />	
+
+<!--++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->	
+	<!-- Transformations à effectuer sur le fichier XML -->
+<!--++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
+
+	<!-- Table person(Anonymisation name,city) -->
+<iterate name="personne" type="whatever" source="dom1" selector="//personne" consumer="dom1.updater()">
+	
+	<variable  name="person" generator="PersonGenerator"/>
+	<attribute name="nom_patronymique" script="person.familyName" />
+	<attribute name="prenom_a" script="person.givenName" />
+	<attribute name="prenom_b" constant="" />
+	<attribute name="prenom_c" constant="" />
+	
+	<iterate name="version_de_titulaire" type="whatever" source="dom1" selector="//version_de_titulaire" consumer="dom1.updater()">
+	
+		<attribute name="nom_d_exercice" condition="this.id_personne == personne.id_personne" script="personne.nom_patronymique" />
+		<attribute name="prenom_usuel" condition="this.id_personne == personne.id_personne" script="personne.prenom_a" />
+	
+	</iterate>
+
+</iterate> 
+
+</setup>

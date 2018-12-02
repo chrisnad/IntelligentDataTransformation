@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?><dataset>
+<message_rpps id_message="142680" date_creation="2011-09-01 07:51:15" id_rpps="39123919167" code_s_profmetier="21" date_message="2011-09-01 07:51:15" chrono_message="0" id_emetteur="T43-MASSE" type_message="1" code_categorie_prof_sante="C"/>
+<message_rpps id_message="183847" date_creation="2011-11-18 11:31:14" id_rpps="56162177937" code_s_profmetier="10" date_message="2011-11-18 11:31:14" chrono_message="0" id_emetteur="CNAM" type_message="1" code_categorie_prof_sante="C"/>
+<message_rpps id_message="178112" date_creation="2011-11-16 06:00:25" id_rpps="56162177937" code_s_profmetier="10" date_message="2011-11-15 00:00:00" chrono_message="804" id_emetteur="RPPS" id_flux="D000JYG0" type_message="1" code_categorie_prof_sante="C"/>
+<message_rpps id_message="209854" date_creation="2011-11-29 05:31:36" id_rpps="61804937862" code_s_profmetier="10" date_message="2011-11-29 05:31:36" chrono_message="0" id_emetteur="CNAM" type_message="1" code_categorie_prof_sante="C"/>
+<message_rpps id_message="239204" date_creation="2011-12-15 11:57:44" id_rpps="76734192768" code_s_profmetier="10" date_message="2011-12-15 11:57:44" chrono_message="0" id_emetteur="CNAM" id_flux="0000003361" type_message="1" code_categorie_prof_sante="C"/>
+<message_rpps id_message="249542" date_creation="2011-12-23 06:00:58" id_rpps="56162177937" code_s_profmetier="10" date_message="2011-12-22 00:00:00" chrono_message="2081" id_emetteur="RPPS" id_flux="D000LTO2" type_message="1" code_categorie_prof_sante="C"/>
+<message_rpps id_message="241270" date_creation="2011-12-17 05:29:29" id_rpps="76734192768" code_s_profmetier="10" date_message="2011-12-17 05:29:29" chrono_message="0" id_emetteur="CNAM" id_flux="0000003363" type_message="1" code_categorie_prof_sante="C"/>
+<message_rpps id_message="280776" date_creation="2012-01-23 11:30:42" id_rpps="56162177937" code_s_profmetier="10" date_message="2012-01-23 11:30:42" chrono_message="0" id_emetteur="CNAM" type_message="1" code_categorie_prof_sante="C"/>
+<message_rpps id_message="455133" date_creation="2012-04-12 09:17:48" id_rpps="61804937862" code_s_profmetier="10" date_message="2012-04-12 09:17:48" chrono_message="0" id_emetteur="T43-MASSE" type_message="1" code_categorie_prof_sante="C"/>
+<message_rpps id_message="444239" date_creation="2012-04-11 14:27:03" id_rpps="61804937862" code_s_profmetier="10" date_message="2012-04-11 14:27:03" chrono_message="0" id_emetteur="MASSE" type_message="1" code_categorie_prof_sante="C"/>
+<message_rpps id_message="673240" date_creation="2012-09-11 06:00:29" id_rpps="61804937862" code_s_profmetier="10" date_message="2012-09-10 00:00:00" chrono_message="43" id_emetteur="RPPS" id_flux="D0010I0N" type_message="1" code_categorie_prof_sante="C"/>
+<message_rpps id_message="658110" date_creation="2012-08-11 06:00:46" id_rpps="39123919167" code_s_profmetier="21" date_message="2012-08-10 00:00:00" chrono_message="365" id_emetteur="RPPS" id_flux="D000YYD6" type_message="1" code_categorie_prof_sante="C"/>
+<message_rpps id_message="784883" date_creation="2012-12-13 06:00:30" id_rpps="76734192768" code_s_profmetier="10" date_message="2012-12-12 00:00:00" chrono_message="56" id_emetteur="RPPS" id_flux="D0017UOR" type_message="1" code_categorie_prof_sante="C"/>
+<message_rpps id_message="790107" date_creation="2012-12-17 11:15:57" id_rpps="76734192768" code_s_profmetier="10" date_message="2012-12-17 11:15:57" chrono_message="0" id_emetteur="CNAM" type_message="1" code_categorie_prof_sante="C"/>
+<message_rpps id_message="819404" date_creation="2013-01-18 06:00:36" id_rpps="56162177937" code_s_profmetier="10" date_message="2013-01-17 00:00:00" chrono_message="350" id_emetteur="RPPS" id_flux="D001AKL5" type_message="1" code_categorie_prof_sante="C"/>
+<message_rpps id_message="1315131" date_creation="2014-03-21 13:40:25" id_rpps="56162177937" code_s_profmetier="10" date_message="2014-03-21 13:15:18" chrono_message="0" id_emetteur="ECHEANCE" type_message="1" code_categorie_prof_sante="C"/>
+<message_rpps id_message="1334569" date_creation="2014-03-22 11:57:14" id_rpps="56162177937" code_s_profmetier="10" date_message="2014-03-22 11:57:14" chrono_message="0" id_emetteur="ECHEANCE" type_message="1" code_categorie_prof_sante="C"/>
+<message_rpps id_message="1436923" date_creation="2014-05-23 14:23:59" id_rpps="61804937862" code_s_profmetier="10" date_message="2014-05-23 14:01:46" chrono_message="0" id_emetteur="ECHEANCE" type_message="1" code_categorie_prof_sante="C"/>
+<message_rpps id_message="1445400" date_creation="2014-05-23 14:42:50" id_rpps="39123919167" code_s_profmetier="21" date_message="2014-05-23 14:01:46" chrono_message="0" id_emetteur="ECHEANCE" type_message="1" code_categorie_prof_sante="C"/>
+<message_rpps id_message="1456192" date_creation="2014-05-23 18:45:52" id_rpps="61804937862" code_s_profmetier="10" date_message="2014-05-23 18:45:52" chrono_message="0" id_emetteur="ECHEANCE" type_message="1" code_categorie_prof_sante="C"/>
+<message_rpps id_message="1449667" date_creation="2014-05-23 16:49:43" id_rpps="39123919167" code_s_profmetier="21" date_message="2014-05-23 16:49:43" chrono_message="0" id_emetteur="ECHEANCE" type_message="1" code_categorie_prof_sante="C"/>
+<message_rpps id_message="1671431" date_creation="2014-09-25 06:00:58" id_rpps="61804937862" code_s_profmetier="10" date_message="2014-09-24 00:00:00" chrono_message="208" id_emetteur="RPPS" id_flux="D002XHBI" type_message="1" code_categorie_prof_sante="C"/>
+<message_rpps id_message="1670996" date_creation="2014-09-25 03:17:01" id_rpps="61804937862" code_s_profmetier="10" date_message="2014-09-25 03:17:01" chrono_message="0" id_emetteur="CNAM" id_flux="0000004059" type_message="1" code_categorie_prof_sante="C"/>
+<message_rpps id_message="1838799" date_creation="2014-10-23 06:01:07" id_rpps="61804937862" code_s_profmetier="10" date_message="2014-10-22 00:00:00" chrono_message="526" id_emetteur="RPPS" id_flux="D003116T" type_message="1" code_categorie_prof_sante="C"/>
+<message_rpps id_message="1837723" date_creation="2014-10-22 06:01:04" id_rpps="61804937862" code_s_profmetier="10" date_message="2014-10-21 00:00:00" chrono_message="55" id_emetteur="RPPS" id_flux="D0030J3R" type_message="1" code_categorie_prof_sante="C"/>
+<message_rpps id_message="1839640" date_creation="2014-10-25 03:17:49" id_rpps="61804937862" code_s_profmetier="10" date_message="2014-10-25 03:17:49" chrono_message="0" id_emetteur="CNAM" id_flux="0000004081" type_message="1" code_categorie_prof_sante="C"/>
+<message_rpps id_message="1839408" date_creation="2014-10-24 03:17:19" id_rpps="61804937862" code_s_profmetier="10" date_message="2014-10-24 03:17:19" chrono_message="0" id_emetteur="CNAM" id_flux="0000004080" type_message="1" code_categorie_prof_sante="C"/>
+<message_rpps id_message="2036551" date_creation="2015-06-05 03:16:05" id_rpps="56162177937" code_s_profmetier="10" date_message="2015-06-05 03:16:05" chrono_message="0" id_emetteur="CNAM" id_flux="0000004232" type_message="1" code_categorie_prof_sante="C"/>
+<message_rpps id_message="2036203" date_creation="2015-06-04 06:00:52" id_rpps="56162177937" code_s_profmetier="10" date_message="2015-06-03 00:00:00" chrono_message="1370" id_emetteur="RPPS" id_flux="D003PRWJ" type_message="1" code_categorie_prof_sante="C"/>
+<message_rpps id_message="2264505" date_creation="2015-12-18 06:00:57" id_rpps="61804937862" code_s_profmetier="10" date_message="2015-12-16 00:00:00" chrono_message="5165" id_emetteur="RPPS" id_flux="D004BFS9" type_message="1" code_categorie_prof_sante="C"/>
+<message_rpps id_message="2378397" date_creation="2016-01-24 06:01:25" id_rpps="56162177937" code_s_profmetier="10" date_message="2016-01-20 00:00:00" chrono_message="6195" id_emetteur="RPPS" id_flux="D004KV1U" type_message="1" code_categorie_prof_sante="C"/>
+<message_rpps id_message="2424015" date_creation="2016-02-20 06:00:40" id_rpps="56162177937" code_s_profmetier="10" date_message="2016-02-19 00:00:00" chrono_message="517" id_emetteur="RPPS" id_flux="D004OZRC" type_message="1" code_categorie_prof_sante="C"/>
+<message_rpps id_message="2366297" date_creation="2016-01-21 06:01:49" id_rpps="76734192768" code_s_profmetier="10" date_message="2016-01-19 00:00:00" chrono_message="1196" id_emetteur="RPPS" id_flux="D004JM1J" type_message="1" code_categorie_prof_sante="C"/>
+<message_rpps id_message="2389252" date_creation="2016-01-26 06:01:21" id_rpps="61804937862" code_s_profmetier="10" date_message="2016-01-22 00:00:00" chrono_message="1407" id_emetteur="RPPS" id_flux="D004LUMR" type_message="1" code_categorie_prof_sante="C"/>
+<message_rpps id_message="2349396" date_creation="2016-01-14 06:42:27" id_rpps="76734192768" code_s_profmetier="10" date_message="2016-01-14 06:42:27" chrono_message="0" id_emetteur="ECHEANCE" type_message="1" code_categorie_prof_sante="C"/>
+<message_rpps id_message="2345604" date_creation="2016-01-13 13:00:28" id_rpps="76734192768" code_s_profmetier="10" date_message="2016-01-13 13:00:14" chrono_message="0" id_emetteur="ECHEANCE" type_message="1" code_categorie_prof_sante="C"/>
+<message_rpps id_message="3177465" date_creation="2017-05-13 12:13:52" id_rpps="39123919167" code_s_profmetier="21" date_message="2017-05-13 12:06:32" chrono_message="0" id_emetteur="ECHEANCE" type_message="1" code_categorie_prof_sante="C"/>
+<message_rpps id_message="3541366" date_creation="2017-09-11 12:28:34" id_rpps="61804937862" code_s_profmetier="10" date_message="2017-09-11 12:16:39" chrono_message="0" id_emetteur="ECHEANCE" type_message="1" code_categorie_prof_sante="C"/>
+<message_rpps id_message="3983413" date_creation="2017-12-29 06:02:03" id_rpps="39123919167" code_s_profmetier="21" date_message="2017-12-28 00:00:00" chrono_message="969" id_emetteur="RPPS" id_flux="D00757V2" type_message="1" code_categorie_prof_sante="C"/>
+<message_rpps id_message="3987640" date_creation="2017-12-30 06:02:30" id_rpps="39123919167" code_s_profmetier="21" date_message="2017-12-29 00:00:00" chrono_message="893" id_emetteur="RPPS" id_flux="D0075C7H" type_message="1" code_categorie_prof_sante="C"/>
+<resynchro_rpps id_resynchro="108432" id_message="142680" date_trait_prevue="2011-09-01 07:51:15" date_trait_pfe="2012-02-09 12:32:25" urgent="0"/>
+<resynchro_rpps id_resynchro="161505" id_message="209854" date_trait_prevue="2011-11-29 05:31:36" date_trait_pfe="2012-04-12 09:17:48" urgent="0"/>
+<resynchro_rpps id_resynchro="134366" id_message="178112" date_trait_prevue="2011-11-16 06:00:18" date_trait_pfe="2012-01-24 06:51:09" urgent="0"/>
+<resynchro_rpps id_resynchro="138602" id_message="183847" date_trait_prevue="2011-11-18 11:31:14" date_trait_pfe="2012-01-24 06:51:09" urgent="0"/>
+<resynchro_rpps id_resynchro="192639" id_message="249542" date_trait_prevue="2011-12-23 06:00:34" date_trait_pfe="2012-01-24 06:51:09" urgent="0"/>
+<resynchro_rpps id_resynchro="187021" id_message="241270" date_trait_prevue="2011-12-17 05:29:29" date_trait_pfe="2011-12-17 06:58:18" urgent="0"/>
+<resynchro_rpps id_resynchro="185744" id_message="239204" date_trait_prevue="2011-12-15 11:57:44" date_trait_pfe="2011-12-17 06:58:18" urgent="0"/>
+<resynchro_rpps id_resynchro="214854" id_message="280776" date_trait_prevue="2012-01-23 11:30:42" date_trait_pfe="2012-01-24 06:51:09" urgent="0"/>
+<resynchro_rpps id_resynchro="365028" id_message="455133" date_trait_prevue="2012-04-12 09:17:48" date_trait_pfe="2012-06-20 11:12:34" urgent="0"/>
+<resynchro_rpps id_resynchro="354415" id_message="444239" date_trait_prevue="2012-04-12 00:00:00" date_trait_pfe="2012-04-12 09:17:48" urgent="4"/>
+<resynchro_rpps id_resynchro="559534" id_message="658110" date_trait_prevue="2012-08-11 06:00:43" date_trait_pfe="2012-08-11 06:25:32" urgent="3"/>
+<resynchro_rpps id_resynchro="574828" id_message="673240" date_trait_prevue="2012-09-11 06:00:11" date_trait_pfe="2012-09-11 06:27:13" urgent="3"/>
+<resynchro_rpps id_resynchro="687494" id_message="784883" date_trait_prevue="2012-12-13 06:00:08" date_trait_pfe="2013-02-12 07:18:00" urgent="0"/>
+<resynchro_rpps id_resynchro="692821" id_message="790107" date_trait_prevue="2013-01-01 00:00:00" date_trait_pfe="2013-02-12 07:18:00" urgent="0"/>
+<resynchro_rpps id_resynchro="687493" id_message="784883" date_trait_prevue="2012-12-31 00:00:00" date_trait_pfe="2013-02-12 07:18:00" urgent="0"/>
+<resynchro_rpps id_resynchro="723195" id_message="819404" date_trait_prevue="2013-01-18 06:00:30" date_trait_pfe="2013-01-18 06:59:44" urgent="3"/>
+<resynchro_rpps id_resynchro="1228161" id_message="1315131" date_trait_prevue="2014-03-21 13:15:18" date_trait_pfe="2014-03-22 11:57:14" urgent="4"/>
+<resynchro_rpps id_resynchro="1247665" id_message="1334569" date_trait_prevue="2014-03-22 11:57:14" date_trait_pfe="2014-03-25 07:34:49" urgent="3"/>
+<resynchro_rpps id_resynchro="1370506" id_message="1456192" date_trait_prevue="2014-05-23 18:45:52" date_trait_pfe="2014-05-24 17:23:39" urgent="3"/>
+<resynchro_rpps id_resynchro="1363981" id_message="1449667" date_trait_prevue="2014-05-23 16:49:43" date_trait_pfe="2014-05-24 16:10:34" urgent="3"/>
+<resynchro_rpps id_resynchro="1351237" id_message="1436923" date_trait_prevue="2014-05-23 14:01:46" date_trait_pfe="2014-05-23 18:45:52" urgent="4"/>
+<resynchro_rpps id_resynchro="1359714" id_message="1445400" date_trait_prevue="2014-05-23 14:01:46" date_trait_pfe="2014-05-23 16:49:43" urgent="4"/>
+<resynchro_rpps id_resynchro="1589361" id_message="1671431" date_trait_prevue="2014-09-27 00:00:00" date_trait_pfe="2014-09-27 06:43:36" urgent="3"/>
+<resynchro_rpps id_resynchro="1589362" id_message="1671431" date_trait_prevue="2014-09-25 06:00:36" date_trait_pfe="2014-09-25 06:42:53" urgent="3"/>
+<resynchro_rpps id_resynchro="1588916" id_message="1670996" date_trait_prevue="2014-09-28 00:00:00" date_trait_pfe="2014-09-28 06:34:37" urgent="3"/>
+<resynchro_rpps id_resynchro="1758649" id_message="1839640" date_trait_prevue="2014-10-25 03:17:49" date_trait_pfe="2014-10-25 06:54:42" urgent="3"/>
+<resynchro_rpps id_resynchro="1758417" id_message="1839408" date_trait_prevue="2014-10-24 03:17:19" date_trait_pfe="2014-10-24 06:33:12" urgent="3"/>
+<resynchro_rpps id_resynchro="1757771" id_message="1838799" date_trait_prevue="2014-10-23 06:00:32" date_trait_pfe="2014-10-24 06:33:12" urgent="2"/>
+<resynchro_rpps id_resynchro="1756634" id_message="1837723" date_trait_prevue="2014-10-22 06:00:22" date_trait_pfe="2014-10-24 06:33:12" urgent="1"/>
+<resynchro_rpps id_resynchro="1962326" id_message="2036551" date_trait_prevue="2015-06-01 00:00:00" date_trait_pfe="2015-06-05 07:45:20" urgent="3"/>
+<resynchro_rpps id_resynchro="1961970" id_message="2036203" date_trait_prevue="2015-06-04 06:00:46" date_trait_pfe="2015-06-05 07:45:20" urgent="2"/>
+<resynchro_rpps id_resynchro="2196656" id_message="2264505" date_trait_prevue="2015-12-18 06:00:24" date_trait_pfe="2015-12-18 07:07:15" urgent="3"/>
+<resynchro_rpps id_resynchro="2278986" id_message="2345604" date_trait_prevue="2016-01-13 13:00:14" date_trait_pfe="2016-01-14 06:42:26" urgent="4"/>
+<resynchro_rpps id_resynchro="2322800" id_message="2389252" date_trait_prevue="2016-01-26 06:01:16" date_trait_pfe="2016-01-26 07:07:02" urgent="3"/>
+<resynchro_rpps id_resynchro="2311915" id_message="2378397" date_trait_prevue="2016-01-24 06:01:09" date_trait_pfe="2016-01-24 07:22:11" urgent="3"/>
+<resynchro_rpps id_resynchro="2299774" id_message="2366297" date_trait_prevue="2016-01-21 06:01:38" date_trait_pfe="2016-01-21 06:44:13" urgent="3"/>
+<resynchro_rpps id_resynchro="2282787" id_message="2349396" date_trait_prevue="2016-01-14 06:42:27" date_trait_pfe="2016-01-15 06:44:28" urgent="3"/>
+<resynchro_rpps id_resynchro="2358119" id_message="2424015" date_trait_prevue="2016-02-20 06:00:34" date_trait_pfe="2016-02-20 06:30:55" urgent="3"/>
+<resynchro_rpps id_resynchro="3126049" id_message="3177465" date_trait_prevue="2017-05-13 12:06:32" date_trait_pfe="2017-05-14 06:51:41" urgent="4"/>
+<resynchro_rpps id_resynchro="3491819" id_message="3541366" date_trait_prevue="2017-09-11 12:16:39" date_trait_pfe="2017-09-12 08:10:49" urgent="4"/>
+<resynchro_rpps id_resynchro="3929484" id_message="3983413" date_trait_prevue="2017-12-29 06:02:00" date_trait_pfe="2017-12-29 06:50:39" urgent="3"/>
+<resynchro_rpps id_resynchro="3933769" id_message="3987640" date_trait_prevue="2017-12-30 06:02:28" date_trait_pfe="2017-12-30 07:09:53" urgent="3"/>
+<regles_detectees id_regles_detectees="3725" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="7466" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="7467" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="10508" id_resynchro="134366" id_rpps="10001292134" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="10509" id_resynchro="138602" id_rpps="10001292134" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="10627" id_resynchro="185744" id_rpps="10003085346" code_s_profmetier="10" regles_detectees="1" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="10628" id_resynchro="185744" id_rpps="10003085346" code_s_profmetier="10" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="10629" id_resynchro="185744" id_rpps="10003085346" code_s_profmetier="10" regles_detectees="8A" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="10630" id_resynchro="185744" id_rpps="10003085346" code_s_profmetier="10" regles_detectees="11" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="10631" id_resynchro="185744" id_rpps="10003085346" code_s_profmetier="10" regles_detectees="12B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="10632" id_resynchro="185744" id_rpps="10003085346" code_s_profmetier="10" regles_detectees="14A" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="10633" id_resynchro="185744" id_rpps="10003085346" code_s_profmetier="10" regles_detectees="11" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="10634" id_resynchro="185744" id_rpps="10003085346" code_s_profmetier="10" regles_detectees="14A" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="10635" id_resynchro="185744" id_rpps="10003085346" code_s_profmetier="10" regles_detectees="13" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="10636" id_resynchro="185744" id_rpps="10003085346" code_s_profmetier="10" regles_detectees="13" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="10637" id_resynchro="187021" id_rpps="10003085346" code_s_profmetier="10" regles_detectees="1" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="10638" id_resynchro="187021" id_rpps="10003085346" code_s_profmetier="10" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="10639" id_resynchro="187021" id_rpps="10003085346" code_s_profmetier="10" regles_detectees="8A" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="10640" id_resynchro="187021" id_rpps="10003085346" code_s_profmetier="10" regles_detectees="11" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="10641" id_resynchro="187021" id_rpps="10003085346" code_s_profmetier="10" regles_detectees="12B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="10642" id_resynchro="187021" id_rpps="10003085346" code_s_profmetier="10" regles_detectees="14A" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="10643" id_resynchro="187021" id_rpps="10003085346" code_s_profmetier="10" regles_detectees="11" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="10644" id_resynchro="187021" id_rpps="10003085346" code_s_profmetier="10" regles_detectees="14A" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="10645" id_resynchro="187021" id_rpps="10003085346" code_s_profmetier="10" regles_detectees="13" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="10646" id_resynchro="187021" id_rpps="10003085346" code_s_profmetier="10" regles_detectees="13" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="14114" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="14115" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="16567" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="32491" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="25524" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="35242" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="35243" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="21983" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="21984" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="50702" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="50703" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="31847" id_resynchro="134366" id_rpps="10001292134" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="31848" id_resynchro="138602" id_rpps="10001292134" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="42159" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="42160" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="24816" id_resynchro="134366" id_rpps="10001292134" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="24817" id_resynchro="138602" id_rpps="10001292134" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="16140" id_resynchro="134366" id_rpps="10001292134" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="16141" id_resynchro="138602" id_rpps="10001292134" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="28506" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="28507" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="18381" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="18382" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="2659" id_resynchro="134366" id_rpps="10001292134" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="2660" id_resynchro="138602" id_rpps="10001292134" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="19939" id_resynchro="134366" id_rpps="10001292134" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="19940" id_resynchro="138602" id_rpps="10001292134" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="11224" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="20368" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="52726" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="44724" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="93857" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="99069" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="99070" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="39423" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="85407" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="85408" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="60466" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="62164" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="62165" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="66033" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="66034" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="67888" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="92264" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="92265" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="87246" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="74902" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="81279" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="100512" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="105162" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="72960" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="72961" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="103942" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="103943" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="108419" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="108420" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="58312" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="58313" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="64360" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="79658" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="79659" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="109803" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="149527" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="122957" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="148380" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="148381" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="137838" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="162572" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="129979" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="144905" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="152921" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="152922" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="136026" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="136027" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="160755" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="160756" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="114499" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="114500" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="143668" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="143669" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="155108" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="116076" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="121131" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="121132" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="127834" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="127835" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="175759" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="175760" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="191475" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="168645" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="168646" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="183781" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="183782" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="170392" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="177868" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="238951" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="238952" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="242164" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="231394" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="231395" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="275887" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="275888" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="227689" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="218485" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="218486" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="233183" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="222613" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="249325" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="249326" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="266811" id_resynchro="134366" id_rpps="10001292134" code_s_profmetier="10" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="266812" id_resynchro="134366" id_rpps="10001292134" code_s_profmetier="10" regles_detectees="4" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="266813" id_resynchro="134366" id_rpps="10001292134" code_s_profmetier="10" regles_detectees="8A" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="266814" id_resynchro="134366" id_rpps="10001292134" code_s_profmetier="10" regles_detectees="11" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="266815" id_resynchro="134366" id_rpps="10001292134" code_s_profmetier="10" regles_detectees="12B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="266816" id_resynchro="134366" id_rpps="10001292134" code_s_profmetier="10" regles_detectees="14A" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="266817" id_resynchro="134366" id_rpps="10001292134" code_s_profmetier="10" regles_detectees="13" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="266818" id_resynchro="138602" id_rpps="10001292134" code_s_profmetier="10" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="266819" id_resynchro="138602" id_rpps="10001292134" code_s_profmetier="10" regles_detectees="4" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="266820" id_resynchro="138602" id_rpps="10001292134" code_s_profmetier="10" regles_detectees="8A" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="266821" id_resynchro="138602" id_rpps="10001292134" code_s_profmetier="10" regles_detectees="11" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="266822" id_resynchro="138602" id_rpps="10001292134" code_s_profmetier="10" regles_detectees="12B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="266823" id_resynchro="138602" id_rpps="10001292134" code_s_profmetier="10" regles_detectees="14A" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="266824" id_resynchro="138602" id_rpps="10001292134" code_s_profmetier="10" regles_detectees="13" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="266825" id_resynchro="192639" id_rpps="10001292134" code_s_profmetier="10" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="266826" id_resynchro="192639" id_rpps="10001292134" code_s_profmetier="10" regles_detectees="4" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="266827" id_resynchro="192639" id_rpps="10001292134" code_s_profmetier="10" regles_detectees="8A" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="266828" id_resynchro="192639" id_rpps="10001292134" code_s_profmetier="10" regles_detectees="11" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="266829" id_resynchro="192639" id_rpps="10001292134" code_s_profmetier="10" regles_detectees="12B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="263534" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="263535" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="267388" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="226421" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="226422" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="266830" id_resynchro="192639" id_rpps="10001292134" code_s_profmetier="10" regles_detectees="14A" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="266831" id_resynchro="192639" id_rpps="10001292134" code_s_profmetier="10" regles_detectees="13" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="266832" id_resynchro="214854" id_rpps="10001292134" code_s_profmetier="10" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="266833" id_resynchro="214854" id_rpps="10001292134" code_s_profmetier="10" regles_detectees="4" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="266834" id_resynchro="214854" id_rpps="10001292134" code_s_profmetier="10" regles_detectees="8A" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="266835" id_resynchro="214854" id_rpps="10001292134" code_s_profmetier="10" regles_detectees="11" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="266836" id_resynchro="214854" id_rpps="10001292134" code_s_profmetier="10" regles_detectees="12B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="266837" id_resynchro="214854" id_rpps="10001292134" code_s_profmetier="10" regles_detectees="14A" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="266838" id_resynchro="214854" id_rpps="10001292134" code_s_profmetier="10" regles_detectees="13" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="252901" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="304088" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="309851" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="309852" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="331380" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="293218" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="278388" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="301409" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="301410" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="315642" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="315643" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="284640" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="284641" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="329259" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="329260" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="290651" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="290652" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="316850" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="311557" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="320944" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="320945" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="286444" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="323206" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="370850" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="383318" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="383319" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="345889" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="345890" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="363734" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="363735" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="365428" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="375025" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="375026" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="337214" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="337215" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="354056" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="354057" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="348030" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="356715" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="369315" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="369316" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="385437" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="377067" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="339467" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="427738" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="397791" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="435096" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="390304" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="390305" id_resynchro="108432" id_rpps="10000523091" code_s_profmetier="*" regles_detectees="8B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="471275" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="496847" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="522522" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="553825" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="574236" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="558342" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="627041" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="667386" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="737163" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="705151" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="767829" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="789873" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="786105" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="877026" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="908328" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="838941" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="958394" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="933165" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="903954" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="938628" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="927069" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="919414" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="941732" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="998775" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="979938" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1021691" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1017986" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="970614" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="983884" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="945474" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="976538" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="951979" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="991191" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1025905" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="964195" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1012037" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1005551" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1035932" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1115801" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1111173" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1106734" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1098254" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1064307" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1145847" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1153407" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1139763" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1108588" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1149646" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1148920" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1142588" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1131973" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1131180" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1135902" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1124170" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1150274" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1107659" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1151158" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1130117" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1127091" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1232635" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1242861" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1239010" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1241068" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1198224" id_resynchro="161505" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1242109" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1198225" id_resynchro="354415" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1235512" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1293189" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1223081" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1224068" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1268512" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1260732" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1263645" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1257763" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1259680" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1219148" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1290321" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1266377" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1271063" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1295861" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1245997" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1287025" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1258782" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1248646" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1228102" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1251324" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1224790" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1254728" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1272427" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1296513" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1275757" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1279929" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1312293" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1273086" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1307447" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1310871" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1318429" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1277384" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1273832" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1321224" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1325379" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1298739" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1311598" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1349203" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1315895" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1330693" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1300173" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1343528" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1281650" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1280955" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1282693" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1310148" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1324558" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1297745" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1363689" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1366275" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1379444" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1379445" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" regles_detectees="8A" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1379446" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" regles_detectees="25" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1379447" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" regles_detectees="11" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1379448" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" regles_detectees="12B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1379449" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" regles_detectees="14A" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1379450" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" regles_detectees="11" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1379451" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" regles_detectees="14A" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1379452" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" regles_detectees="11" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1379453" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" regles_detectees="14A" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1379454" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" regles_detectees="13" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1339662" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1340503" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1376095" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1372561" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1370018" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1337001" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1371300" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1333381" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1359395" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1341275" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1328812" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1326180" id_resynchro="365028" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1551412" id_resynchro="559534" id_rpps="10000523091" code_s_profmetier="21" regles_detectees="3" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1551413" id_resynchro="559534" id_rpps="10000523091" code_s_profmetier="21" regles_detectees="8A" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1551414" id_resynchro="559534" id_rpps="10000523091" code_s_profmetier="21" regles_detectees="25" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1551415" id_resynchro="559534" id_rpps="10000523091" code_s_profmetier="21" regles_detectees="11" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1551416" id_resynchro="559534" id_rpps="10000523091" code_s_profmetier="21" regles_detectees="14A" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1611703" id_resynchro="574828" id_rpps="10002006558" code_s_profmetier="10" regles_detectees="4" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1611704" id_resynchro="574828" id_rpps="10002006558" code_s_profmetier="10" regles_detectees="25" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1949648" id_resynchro="723195" id_rpps="10001292134" code_s_profmetier="10" regles_detectees="25" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="1949649" id_resynchro="723195" id_rpps="10001292134" code_s_profmetier="10" regles_detectees="18A" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="2022843" id_resynchro="687493" id_rpps="10003085346" code_s_profmetier="10" regles_detectees="25" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="2022844" id_resynchro="687493" id_rpps="10003085346" code_s_profmetier="10" regles_detectees="13" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="2022845" id_resynchro="687493" id_rpps="10003085346" code_s_profmetier="10" regles_detectees="13" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="2022846" id_resynchro="687494" id_rpps="10003085346" code_s_profmetier="10" regles_detectees="25" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="2022847" id_resynchro="687494" id_rpps="10003085346" code_s_profmetier="10" regles_detectees="13" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="2022848" id_resynchro="687494" id_rpps="10003085346" code_s_profmetier="10" regles_detectees="13" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="2022849" id_resynchro="692821" id_rpps="10003085346" code_s_profmetier="10" regles_detectees="25" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="2022850" id_resynchro="692821" id_rpps="10003085346" code_s_profmetier="10" regles_detectees="13" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="2022851" id_resynchro="692821" id_rpps="10003085346" code_s_profmetier="10" regles_detectees="13" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="2988994" id_resynchro="1228161" id_rpps="10001292134" code_s_profmetier="10" regles_detectees="25" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="3039010" id_resynchro="1247665" id_rpps="10001292134" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="3220880" id_resynchro="1370506" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="3177621" id_resynchro="1351237" id_rpps="10002006558" code_s_profmetier="10" regles_detectees="25" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="3177622" id_resynchro="1351237" id_rpps="10002006558" code_s_profmetier="10" regles_detectees="17" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="3177623" id_resynchro="1351237" id_rpps="10002006558" code_s_profmetier="10" regles_detectees="18A" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="3169181" id_resynchro="1359714" id_rpps="10000523091" code_s_profmetier="21" regles_detectees="25" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="3213753" id_resynchro="1363981" id_rpps="10000523091" code_s_profmetier="21" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="3544303" id_resynchro="1589362" id_rpps="10002006558" code_s_profmetier="10" regles_detectees="13" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="3548506" id_resynchro="1589361" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="3549113" id_resynchro="1588916" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="3751243" id_resynchro="1758649" id_rpps="10002006558" code_s_profmetier="10" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="3747900" id_resynchro="1756634" id_rpps="10002006558" code_s_profmetier="10" regles_detectees="25" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="3747901" id_resynchro="1756634" id_rpps="10002006558" code_s_profmetier="10" regles_detectees="11" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="3747902" id_resynchro="1756634" id_rpps="10002006558" code_s_profmetier="10" regles_detectees="12B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="3747903" id_resynchro="1756634" id_rpps="10002006558" code_s_profmetier="10" regles_detectees="14A" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="3747904" id_resynchro="1756634" id_rpps="10002006558" code_s_profmetier="10" regles_detectees="13" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="3747905" id_resynchro="1756634" id_rpps="10002006558" code_s_profmetier="10" regles_detectees="13" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="3747906" id_resynchro="1757771" id_rpps="10002006558" code_s_profmetier="10" regles_detectees="25" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="3747907" id_resynchro="1757771" id_rpps="10002006558" code_s_profmetier="10" regles_detectees="11" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="3747908" id_resynchro="1757771" id_rpps="10002006558" code_s_profmetier="10" regles_detectees="12B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="3747909" id_resynchro="1757771" id_rpps="10002006558" code_s_profmetier="10" regles_detectees="14A" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="3747910" id_resynchro="1757771" id_rpps="10002006558" code_s_profmetier="10" regles_detectees="13" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="3747911" id_resynchro="1757771" id_rpps="10002006558" code_s_profmetier="10" regles_detectees="13" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="3747912" id_resynchro="1758417" id_rpps="10002006558" code_s_profmetier="10" regles_detectees="25" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="3747913" id_resynchro="1758417" id_rpps="10002006558" code_s_profmetier="10" regles_detectees="11" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="3747914" id_resynchro="1758417" id_rpps="10002006558" code_s_profmetier="10" regles_detectees="12B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="3747915" id_resynchro="1758417" id_rpps="10002006558" code_s_profmetier="10" regles_detectees="14A" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="3747916" id_resynchro="1758417" id_rpps="10002006558" code_s_profmetier="10" regles_detectees="13" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="3747917" id_resynchro="1758417" id_rpps="10002006558" code_s_profmetier="10" regles_detectees="13" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="4175569" id_resynchro="1961970" id_rpps="10001292134" code_s_profmetier="10" regles_detectees="11" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="4175570" id_resynchro="1961970" id_rpps="10001292134" code_s_profmetier="10" regles_detectees="14A" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="4175571" id_resynchro="1961970" id_rpps="10001292134" code_s_profmetier="10" regles_detectees="13" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="4175572" id_resynchro="1962326" id_rpps="10001292134" code_s_profmetier="10" regles_detectees="11" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="4175573" id_resynchro="1962326" id_rpps="10001292134" code_s_profmetier="10" regles_detectees="14A" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="4175574" id_resynchro="1962326" id_rpps="10001292134" code_s_profmetier="10" regles_detectees="13" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="4809577" id_resynchro="2311915" id_rpps="10001292134" code_s_profmetier="10" regles_detectees="25" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="4890045" id_resynchro="2358119" id_rpps="10001292134" code_s_profmetier="10" regles_detectees="13C" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="4787428" id_resynchro="2299774" id_rpps="10003085346" code_s_profmetier="10" regles_detectees="25" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="4820178" id_resynchro="2322800" id_rpps="10002006558" code_s_profmetier="10" regles_detectees="21" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="4625737" id_resynchro="2196656" id_rpps="10002006558" code_s_profmetier="10" regles_detectees="25" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="4625738" id_resynchro="2196656" id_rpps="10002006558" code_s_profmetier="10" regles_detectees="18A" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="4754001" id_resynchro="2278986" id_rpps="10003085346" code_s_profmetier="10" regles_detectees="25" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="4763804" id_resynchro="2282787" id_rpps="10003085346" code_s_profmetier="10" regles_detectees="21" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="6882254" id_resynchro="3491819" id_rpps="10002006558" code_s_profmetier="10" regles_detectees="21" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="6333795" id_resynchro="3126049" id_rpps="10000523091" code_s_profmetier="21" regles_detectees="21" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="7582045" id_resynchro="3929484" id_rpps="10000523091" code_s_profmetier="21" regles_detectees="14B" code_categorie_prof_sante="C"/>
+<regles_detectees id_regles_detectees="7590412" id_resynchro="3933769" id_rpps="10000523091" code_s_profmetier="21" regles_detectees="25" code_categorie_prof_sante="C"/>
+</dataset>

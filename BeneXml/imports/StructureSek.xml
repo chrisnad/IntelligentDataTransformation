@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ElementaryStructureSectionList xmlns:ns1="http://group.socgen.com" xsi:noNamespaceSchemaLocation="FDRESS000v122.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+		<!-- Pour etude à distance: structure du fichier réel, contenu absurde,
+		pour étude problèmes indépendants du contenu -->
+	<ElementaryStructureSection>
+		<EssId>
+			<Id>1234</Id>
+			<IdScheme>DMY</IdScheme>
+		</EssId>
+		<EssAdjustedIndicator>7</EssAdjustedIndicator>
+		<GmsScope>
+			<GMPScopeId>N</GMPScopeId>
+		</GmsScope>
+		<LifeCycleStatus>
+			<LcsId>00</LcsId>
+			<LcsActInd>2</LcsActInd>
+			<LcsExplicitName lang="fra">Actif</LcsExplicitName>
+			<LcsExplicitName lang="eng">Active</LcsExplicitName>
+		</LifeCycleStatus>
+		<EssDescription lang="eng">
+			<EssMnemonic>GFY</EssMnemonic>
+			<EssShortName>ESS   test gfy linked 0116</EssShortName>
+			<EssExplicitName>ESS test gfy linked 0116  </EssExplicitName>
+		</EssDescription>
+		<EssLinkedOu>
+			<OuId>
+				<Id>019</Id>
+				<IdScheme>DMY</IdScheme>
+			</OuId>
+			<EssLinkedOuStartDate>1977-01-01</EssLinkedOuStartDate>
+			<EssLinkedOuEndDate>8000-12-31</EssLinkedOuEndDate>
+		</EssLinkedOu>
+		<EssLinkedMs>
+			<MsId>
+				<Id>0116000</Id>
+				<IdScheme>DMY</IdScheme>
+			</MsId>
+			<EssLinkedMsStartDate>1977-01-01</EssLinkedMsStartDate>
+			<EssLinkedMsEndDate>8000-12-31</EssLinkedMsEndDate>
+		</EssLinkedMs>
+		<LegalEntity>
+			<LegalEntityCode>1106211111</LegalEntityCode>
+		</LegalEntity>
+		<PersonIdentity>
+			<PersonGlobalGrouprId>1000403235</PersonGlobalGrouprId>
+		</PersonIdentity>
+		<EssInternalInvoicing>
+			<InternalInvId>0</InternalInvId>
+			<InternalInvActInd>0</InternalInvActInd>
+			<InternalInvLongName lang="eng">Moderate and locally decided</InternalInvLongName>
+			<InternalInvLongName lang="fra">Montant modéré à validation locale</InternalInvLongName>
+		</EssInternalInvoicing>
+		<EssAccSubSystem>
+			<AccSubSystId>F</AccSubSystId>
+			<AccSubSystActInd>0</AccSubSystActInd>
+			<AccSubSystLongName lang="eng">Unexpected</AccSubSystLongName>
+			<AccSubSystLongName lang="fra">Inattendu</AccSubSystLongName>
+		</EssAccSubSystem>
+		<EssMonitoringInd>
+			<MonitoringIndId>00</MonitoringIndId>
+			<MonitoringIndActInd>0</MonitoringIndActInd>
+			<MonitoringIndName lang="eng">Trumps</MonitoringIndName>
+			<MonitoringIndName lang="fra">Atouts</MonitoringIndName>
+			<MonitoringNat>
+				<MonitoringNatId>10</MonitoringNatId>
+				<MonitoringNatActInd>0</MonitoringNatActInd>
+				<MonitoringNatName lang="fra">GTB</MonitoringNatName>
+				<MonitoringNatName lang="eng">FLB</MonitoringNatName>
+			</MonitoringNat>
+		</EssMonitoringInd>
+		<GlobalVision>
+			<GlobalVisionId>02</GlobalVisionId>
+			<GlobalVisionActInd>0</GlobalVisionActInd>
+			<GlobalVisionName lang="fra">Habit neuf</GlobalVisionName>
+			<GlobalVisionName lang="eng">New coat</GlobalVisionName>
+			<GlobalVisionType>
+				<GlobalVisionTypeId>10</GlobalVisionTypeId>
+				<GlobalVisionTypeActInd>0</GlobalVisionTypeActInd>
+				<GlobalVisionTypeName lang="fra">Vision / Enfant</GlobalVisionTypeName>
+				<GlobalVisionTypeName lang="eng">Viewpoint / Kid</GlobalVisionTypeName>
+			</GlobalVisionType>
+		</GlobalVision>
+		<EssLocal>
+			<EssLocalId>GFY</EssLocalId>
+			<LocalAppli>
+				<LocalAppliId>DDR</LocalAppliId>
+				<LocalAppliExplicitName>Défilé Dans la Rue</LocalAppliExplicitName>
+			</LocalAppli>
+		</EssLocal>
+	</ElementaryStructureSection>
+		<ElementaryStructureSection>
+		<EssId>
+			<Id>5678</Id>
+			<IdScheme>DMY</IdScheme>
+		</EssId>
+		<EssAdjustedIndicator>7</EssAdjustedIndicator>
+		<GmsScope>
+			<GMPScopeId>N</GMPScopeId>
+		</GmsScope>
+		<LifeCycleStatus>
+			<LcsId>00</LcsId>
+			<LcsActInd>2</LcsActInd>
+			<LcsExplicitName lang="fra">Actif</LcsExplicitName>
+			<LcsExplicitName lang="eng">Active</LcsExplicitName>
+		</LifeCycleStatus>
+		<EssDescription lang="eng">
+			<EssMnemonic>GFY</EssMnemonic>
+			<EssShortName>ESS   test gfy point 1116</EssShortName>
+			<EssExplicitName>ESS   test gfy point 1116</EssExplicitName>
+		</EssDescription>
+		<EssLinkedOu>
+			<OuId>
+				<Id>020</Id>
+				<IdScheme>DMY</IdScheme>
+			</OuId>
+			<EssLinkedOuStartDate>1977-01-01</EssLinkedOuStartDate>
+			<EssLinkedOuEndDate>8000-12-31</EssLinkedOuEndDate>
+		</EssLinkedOu>
+		<EssLinkedMs>
+			<MsId>
+				<Id>1003111</Id>
+				<IdScheme>DMY</IdScheme>
+			</MsId>
+			<EssLinkedMsStartDate>1977-01-01</EssLinkedMsStartDate>
+			<EssLinkedMsEndDate>8000-12-31</EssLinkedMsEndDate>
+		</EssLinkedMs>
+		<LegalEntity>
+			<LegalEntityCode>1106200000</LegalEntityCode>
+		</LegalEntity>
+		<PersonIdentity>
+			<PersonGlobalGrouprId>0111310102</PersonGlobalGrouprId>
+		</PersonIdentity>
+		<EssInternalInvoicing>
+			<InternalInvId>0</InternalInvId>
+			<InternalInvActInd>0</InternalInvActInd>
+			<InternalInvLongName lang="eng">Moderate and locally decided</InternalInvLongName>
+			<InternalInvLongName lang="fra">Montant modéré à validation locale</InternalInvLongName>
+		</EssInternalInvoicing>
+		<EssAccSubSystem>
+			<AccSubSystId>F</AccSubSystId>
+			<AccSubSystActInd>0</AccSubSystActInd>
+			<AccSubSystLongName lang="eng">Unexpected</AccSubSystLongName>
+			<AccSubSystLongName lang="fra">Inattendu</AccSubSystLongName>
+		</EssAccSubSystem>
+		<EssMonitoringInd>
+			<MonitoringIndId>00</MonitoringIndId>
+			<MonitoringIndActInd>0</MonitoringIndActInd>
+			<MonitoringIndName lang="eng">Trumps</MonitoringIndName>
+			<MonitoringIndName lang="fra">Atouts</MonitoringIndName>
+			<MonitoringNat>
+				<MonitoringNatId>10</MonitoringNatId>
+				<MonitoringNatActInd>0</MonitoringNatActInd>
+				<MonitoringNatName lang="fra">GTB</MonitoringNatName>
+				<MonitoringNatName lang="eng">FLB</MonitoringNatName>
+			</MonitoringNat>
+		</EssMonitoringInd>
+		<GlobalVision>
+			<GlobalVisionId>02</GlobalVisionId>
+			<GlobalVisionActInd>0</GlobalVisionActInd>
+			<GlobalVisionName lang="fra">Habit neuf</GlobalVisionName>
+			<GlobalVisionName lang="eng">New coat</GlobalVisionName>
+			<GlobalVisionType>
+				<GlobalVisionTypeId>02</GlobalVisionTypeId>
+				<GlobalVisionTypeActInd>0</GlobalVisionTypeActInd>
+				<GlobalVisionTypeName lang="fra">Couture / Essai</GlobalVisionTypeName>
+				<GlobalVisionTypeName lang="eng">Tailoring / Tryout</GlobalVisionTypeName>
+			</GlobalVisionType>
+		</GlobalVision>
+		<EssLocal>
+			<EssLocalId>GFY</EssLocalId>
+			<LocalAppli>
+				<LocalAppliId>DDR</LocalAppliId>
+				<LocalAppliExplicitName>Défilé dans la Rue</LocalAppliExplicitName>
+			</LocalAppli>
+		</EssLocal>
+	</ElementaryStructureSection>
+</ElementaryStructureSectionList>

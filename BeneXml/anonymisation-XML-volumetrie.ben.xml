@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<setup xmlns="http://databene.org/benerator/0.9.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://databene.org/benerator/0.9.8 http://databene.org/benerator-0.9.8.xsd"
+	defaultEncoding="UTF-8">
+
+<!--++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->	
+	<!-- Domaines person et address importés -->
+<!--++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
+
+	<import domains="person, address"/>	
+	
+<!--++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->	
+	<!--Fichiers xml à utiliser -->
+<!--++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->	
+
+<domtree id="dom1" inputUri="StructureSek.xml" 
+outputUri="target/anonymized_data.xml" namespaceAware="false" />	
+
+<!--++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->	
+	<!-- Transformations à effectuer sur le fichier XML -->
+<!--++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-->
+
+	<!-- Table person(Anonymisation name,city) -->
+<iterate name="p" type="person" source="dom1" selector="//PersonIdentity" consumer="dom1.updater()">
+	<!-- Anonymisation attribut PersonGlobalGrouprId -->
+	<variable name="suffixe" type="string" pattern="[0-9]{16}"/>
+	<attribute name="PersonGlobalGrouprId" type="string" script="this.PersonGlobalGrouprId.substring(0,2) + suffixe.substring(0,this.PersonGlobalGrouprId.length()-2) " />
+</iterate> 
+
+</setup>
